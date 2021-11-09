@@ -1,3 +1,7 @@
+Heating oil are one of the energy source for modern house holds. However, this comes with a cost. This generates a substantial amount of CO2 and causes adversal affect on climate. 
+With an optimized and intelligent way of consumption, distribution and storage one can make an smart energy system. This can aparently help in contribution to the sustainable 
+environment.
+
 This Smart heating oil maintenance makes use of Machine Learning Random Forest Algorithm to intelligently deduce when and how much heating oil will need to be 
 filled for winter and summer seasons across european countries. So cool!!
 
