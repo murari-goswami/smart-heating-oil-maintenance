@@ -1,7 +1,7 @@
 # Welcome to Smart Heating Oil/ HeizungÖil predictive maintenance 👋
 
 <p align="center">
-<img src="https://www.facebook.com/olgmbh/photos/a.1824747451125147/1824751464458079/?type=1&theater">
+<img src="header-logo.png">
 </p>
 
 Heating oil are one of the energy source for modern house holds. However, this comes with a cost. This generates a substantial amount of CO2 and causes adversal affect on climate. 
